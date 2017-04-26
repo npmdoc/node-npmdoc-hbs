@@ -1,6 +1,6 @@
 # npmdoc-hbs
 
-#### api documentation for  [hbs (v4.0.1)](https://github.com/pillarjs/hbs)  [![npm package](https://img.shields.io/npm/v/npmdoc-hbs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hbs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hbs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hbs)
+#### basic api documentation for  [hbs (v4.0.1)](https://github.com/pillarjs/hbs)  [![npm package](https://img.shields.io/npm/v/npmdoc-hbs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hbs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hbs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hbs)
 
 #### Express.js template engine plugin for Handlebars
 
@@ -69,7 +69,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "4.0.1"
+    "version": "4.0.1",
+    "bin": {}
 }
 ```
 
